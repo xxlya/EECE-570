@@ -132,6 +132,8 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
+<hr>
+
 # Commitments
 * It is my ultimate goal for this course, and my teaching, to develop your academic skills, supporting your future study and career. To do so will require commitments from <em>you and myself</em>  toward meeting this goal.
 			
