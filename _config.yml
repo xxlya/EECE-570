@@ -31,9 +31,15 @@ navigation:
         url: '#description'
       - page: Contacts
         url: '#contact'
+      - page: Time and Location
+        url: '#time-and-location'
+      - page: Reading and Presentation
+        url: '#reading-and-presentation'
+      - page: Grading
+        url: '#grading'
   - page: Schedule
     url: '#schedule'
-  - title: Coursework
+  - title: Commitments 
     subfolderitems:
       - page: Homework and Quizzes
         url: '#hwqz'
@@ -45,8 +51,8 @@ navigation:
         url: '#exams'
       - page: Scale
         url: '#scale'
-  - page: Commitments
-    url: '#commitments'
+  # - page: Commitments
+  #   url: '#commitments'
 
 # instructors:
 #   - id: yorgey
