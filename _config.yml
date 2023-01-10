@@ -21,12 +21,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   algorithms and data structures (dictionaries, arrays, linked lists).
   Student learn these concepts through studying the Python programming
   language.
-baseurl: "/csci000" # the subpath of your site, e.g. /blog
+baseurl: "/eece570" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: CSCI 000
-title: Generic Computer Science Course
-semester: Fall 2019
+number: EECE 570
+title: Fundamentals of Visual Computing
+semester: Spring 2023
 
 navigation:
   - title: Overview
@@ -80,48 +80,48 @@ instructors:
     phone: (501) 450-1256
     officehours: ???
 
-offerings:
-  - name: LECTURE 01
-    loc: MCREY 110
-    time: MWF 8:10am - 9:00am
-    instructor: yorgey
-  - name: LECTURE 02
-    loc: MCREY 110
-    time: MWF 11:10am - 12:00pm
-    instructor: goadrich
-  - name: LAB 01
-    loc: Snoddy Computer Lab
-    time: R 1:10pm - 4:00pm
-    instructor: ferrer
-  - name: LAB 02
-    loc: Snoddy Computer Lab
-    time: W 1:10pm - 4:00pm
-    instructor: seme
+# offerings:
+#   - name: LECTURE 01
+#     loc: MCREY 110
+#     time: MWF 8:10am - 9:00am
+#     instructor: xiaoxiao
+#   - name: TA session 1
+#     loc: TBA
+#     time: TBA
+#     instructor: Chun-Yin Huang
+#   - name: LAB 01
+#     loc: Snoddy Computer Lab
+#     time: R 1:10pm - 4:00pm
+#     instructor: ferrer
+#   - name: LAB 02
+#     loc: Snoddy Computer Lab
+#     time: W 1:10pm - 4:00pm
+#     instructor: seme
 
-resources:
-  - name: Python 3
-    image: assets/images/pythonlogo.png
-    url: http://python.org
-  - name: Azure Notebooks
-    image: assets/images/azure.png
-    url: https://notebooks.azure.com/
-  - name: Pycharm
-    image: assets/images/pycharmlogo.png
-    url: https://www.jetbrains.com/pycharm/
+# resources:
+#   - name: Python 3
+#     image: assets/images/pythonlogo.png
+#     url: http://python.org
+#   - name: Azure Notebooks
+#     image: assets/images/azure.png
+#     url: https://notebooks.azure.com/
+#   - name: Pycharm
+#     image: assets/images/pycharmlogo.png
+#     url: https://www.jetbrains.com/pycharm/
 
-extra-resources:
-  - name: "How to Think Like a Computer Scientist: Interactive Edition"
-    image: assets/images/runestone_logo.png
-    url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
-  - name: Python Tutor
-    image: assets/images/python_tutor.png
-    url: http://pythontutor.com/
-  - name: CodingBat Python
-    image: assets/images/codingbat.jpg
-    url: https://codingbat.com/python
-  - name: CheckiO Python Practice
-    image: assets/images/checkio_logo_small.png
-    url: https://py.checkio.org/
+# extra-resources:
+#   - name: "How to Think Like a Computer Scientist: Interactive Edition"
+#     image: assets/images/runestone_logo.png
+#     url: https://runestone.academy/runestone/books/published/thinkcspy/index.html
+#   - name: Python Tutor
+#     image: assets/images/python_tutor.png
+#     url: http://pythontutor.com/
+#   - name: CodingBat Python
+#     image: assets/images/codingbat.jpg
+#     url: https://codingbat.com/python
+#   - name: CheckiO Python Practice
+#     image: assets/images/checkio_logo_small.png
+#     url: https://py.checkio.org/
 
 # Build settings
 markdown: kramdown
