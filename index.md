@@ -57,31 +57,31 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||:---------------------------------:|:-------------------------------------:|:-----------------------------------:|
-| 1/10  | Prof. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
-| 1/12  | Prof. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
-| 1/17  | Prof. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
-| 1/19  | Prof. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
+| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
+| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
+| 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
+| 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
 | 1/24  |                   | Presentation – deep learning-based sketching                         |                  | Submit review Submit peer-grading |
-| 1/26  | Prof. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
-| 1/31  | Prof. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
-| 2/1   | Prof. Xiaoxiao Li |  Image Classification II – Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
+| 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
+| 1/31  | Dr. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
+| 2/1   | Dr. Xiaoxiao Li |  Image Classification II – Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
 | 2/7   |          |  Presentation – Advanced image classification |                  |                                   |
-| 2/9   | Prof. Xiaoxiao Li | Image Classification III   – Trustworthiness                          |                  |                                   |
+| 2/9   | Dr. Xiaoxiao Li | Image Classification III   – Trustworthiness                          |                  |                                   |
 | 2/14  |                   | Presentation – Advanced image classification                         |                  |                                   |
-| 2/16  | Prof. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
+| 2/16  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
 | 2/28  |                   | Presentation – Advanced object detection and identification          |                  | Submit review Submit peer-grading |
 | 3/2   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
 | 3/7   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
-| 3/9   | Prof. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review Submit peer-grading |
+| 3/9   | Dr. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review Submit peer-grading |
 | 3/14  |                   | Presentation – Advanced image segmentation                           |                  |                                   |
-| 3/16  | Prof. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
+| 3/16  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
 | 3/21  |                   | Presentation – Advanced image synthesis                              |                  | Submit review Submit peer-grading |
-| 3/23  | Prof. Xiaoxiao Li | Image Registration                                                   |                  | Submit review Submit peer-grading |
+| 3/23  | Dr. Xiaoxiao Li | Image Registration                                                   |                  | Submit review Submit peer-grading |
 | 3/28  |                   | Presentation – Image Registration                                    |                  |                                   |
-| 4/4   | Prof. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
+| 4/4   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
 | 4/6   |                   | Presentation-Vision Transformer                                      |                  | Submit review Submit peer-grading |
-| 4/11  | Prof. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
+| 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
 | 4/13  |                   | Presentation-Vision Analysis                                         |                  | Submit review Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
