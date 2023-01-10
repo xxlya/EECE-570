@@ -43,6 +43,41 @@ Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
 {% include resources.html content=site.extra-resources %}
 
 
+## <a name="reading-and-presentation">Reading and Presentation</a>
+* During each class meeting, we will have student presentations and discussions of selected papers.  The tentative schedule below lists tentative topics for each class and suggested papers.  
+
+* Students taking the course are expected to read all selected papers. The presenter needs to write a review for the paper to be presented. Each review should be submitted one day before its presentation and discussion. Please refer to lecture 1's course notes on how to write a review. The review needs to cover 1) summary; 2) pros; 3) cons; and 4) future direction.
+
+ 
+* There are 3 parts for each presentation: 
+  * Problem statement, a brief overview of the state-of-the-art
+  * Key idea of the paper
+  * Strengths, weaknesses and future directions
+	
+
+* The total time allocated for each paper is 40 minutes with 25 mins presentation and 15 mins discussion.  We suggest you prepare in advance and do not exceed 40 minutes to leave 40 minutes for another presentation.
+
+* We welcome students to suggest their interested papers.  If students are interested in substitute papers, after signing up for desired time slots, the student should discuss with the instructor at least one week in advance to have time to make an announcement.  
+
+## <a name="grading">Grading</a>
+* Paper Readings and Presentations: 30% 
+  * Read the selected paper(s) and submit review
+  * Present the selected paper
+  * Lead discussion in the classroom
+
+
+* Course participants: 10%
+  * You must show up on your presentation date. No show will lead to failing the course. 
+  * Grade for your classmate's presentation. If you cannot attend the presentation (two chances over the term), please let TA and instructor know. Otherwise, -1 point each time. 
+
+
+* Project proposal (2 pages): 20\%
+* Final project (at least 4 pages): 40\%
+  * A computer vision project that is related to the course topic. You have the flexibility to choose the topics. More details will be released later. **No Teamwork allowed**.
+  * Passing the course does on conditional on if you pass the final project
+
+* Late submission will result in *0.8 decay per day. Extension is only accepted via applying for [Academic Concession](https://academicservices.engineering.ubc.ca/exams-grades/academic-concession/).
+
 
 ## Computational Resources
 
