@@ -9,23 +9,18 @@
 layout: course-multi
 ---
 
-# <a name="description">Overview</a>
+<!-- # <a name="description">Overview</a>
 
-{{ site.description }}
+{{ site.description }} -->
 
-## <a name="goals">Learning Goals</a>
+## <a name="goals">Course Description</a>
 
 Upon completing this course, our goal is for you to be able to:
 
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
+* This is a Special Topics course focusing on the foundations of computer vision and machine learning/ deep learning methods for computer vision tasks. The students are expected to have obtained a solid
+background in machine learning, linear algebra, and coding skills.
+* This course is a combination of lectures and student presentations. We plan to read and discuss recent research papers on the intersection between computer vision and machine learning. We plan to invite internal (within the department) and external speakers to give guest lectures to give introductory and state-of-the-art developments in the area of computer vision and machine learning.
+* This course satisfies the ECE graduate program requirement.
 
 ## <a name="resources">Resources</a>
 
