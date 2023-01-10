@@ -59,32 +59,32 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||:---------------------------------:|:-------------------------------------:|:-----------------------------------:|
-| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   | Signup Piazza
-| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=200/>            | Signup presentation               |
+| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |            Signup Piazza                       | 
+| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=400/>            | Signup presentation               |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
-| 1/24  |                   | Presentation – deep learning-based sketching                         |                  | Submit review <br> Submit peer-grading |
+| 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |                  | Submit review <br> Submit peer-grading |
 | 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
 | 1/31  | Dr. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
 | 2/1   | Dr. Xiaoxiao Li |  Image Classification II – Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
-| 2/7   |          |  Presentation – Advanced image classification |                  |                                   |
+| 2/7   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
 | 2/9   | Dr. Xiaoxiao Li | Image Classification III   – Trustworthiness                          |                  |                                   |
-| 2/14  |                   | Presentation – Advanced image classification                         |                  |                                   |
+| 2/14  |                   | Presentation – <br>  Advanced image classification                         |                  |                                   |
 | 2/16  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
-| 2/28  |                   | Presentation – Advanced object detection and identification          |                  | Submit review <br> Submit peer-grading |
+| 2/28  |                   | Presentation – <br>  Advanced object detection and identification          |                  | Submit review <br> Submit peer-grading |
 | 3/2   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
 | 3/7   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
 | 3/9   | Dr. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review <br> Submit peer-grading |
-| 3/14  |                   | Presentation – Advanced image segmentation                           |                  |                                   |
+| 3/14  |                   | Presentation – <br>  Advanced image segmentation                           |                  |                                   |
 | 3/16  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
-| 3/21  |                   | Presentation – Advanced image synthesis                              |                  | Submit review <br> Submit peer-grading |
+| 3/21  |                   | Presentation – <br>  Advanced image synthesis                              |                  | Submit review <br> Submit peer-grading |
 | 3/23  | Dr. Xiaoxiao Li | Image Registration                                                   |                  | Submit review <br> Submit peer-grading |
-| 3/28  |                   | Presentation – Image Registration                                    |                  |                                   |
+| 3/28  |                   | Presentation – <br>  Image Registration                                    |                  |                                   |
 | 4/4   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
-| 4/6   |                   | Presentation-Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
+| 4/6   |                   | Presentation – <br> Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
 | 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
-| 4/13  |                   | Presentation-Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
+| 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
