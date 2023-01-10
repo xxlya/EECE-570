@@ -39,20 +39,20 @@ navigation:
         url: '#grading'
   - page: Schedule
     url: '#schedule'
-  - title: Commitments 
-    subfolderitems:
-      - page: Homework and Quizzes
-        url: '#hwqz'
-      - page: Labs
-        url: '#labs'
-      - page: Projects
-        url: '#projects'
-      - page: Exams
-        url: '#exams'
-      - page: Scale
-        url: '#scale'
-  # - page: Commitments
-  #   url: '#commitments'
+  # - title: Commitments 
+  #   subfolderitems:
+  #     - page: Homework and Quizzes
+  #       url: '#hwqz'
+  #     - page: Labs
+  #       url: '#labs'
+  #     - page: Projects
+  #       url: '#projects'
+  #     - page: Exams
+  #       url: '#exams'
+  #     - page: Scale
+  #       url: '#scale'
+  - page: Commitments
+    url: '#commitments'
 
 # instructors:
 #   - id: yorgey
