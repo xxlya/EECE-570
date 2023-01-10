@@ -66,9 +66,9 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |                  | Submit review <br> Submit peer-grading |
 | 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
 | 1/31  | Dr. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
-| 2/1   | Dr. Xiaoxiao Li |  Image Classification II – Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
+| 2/1   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
 | 2/7   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
-| 2/9   | Dr. Xiaoxiao Li | Image Classification III   – Trustworthiness                          |                  |                                   |
+| 2/9   | Dr. Xiaoxiao Li | Image Classification III   – <br> Trustworthiness                          |                  |                                   |
 | 2/14  |                   | Presentation – <br>  Advanced image classification                         |                  |                                   |
 | 2/16  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
