@@ -37,7 +37,7 @@ body {
 /* Modify brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: white;
+    color: #040404;
 }
 
 a {
