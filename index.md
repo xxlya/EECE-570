@@ -5,8 +5,8 @@
 # For courses with a single offering in the _config.yml,
 # uncomment the following line and comment out the course-multi line
 
-#layout: course-single
-layout: course-multi
+layout: course-single
+#layout: course-multi
 ---
 
 # <a name="description">Overview</a>
