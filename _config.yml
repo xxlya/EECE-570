@@ -16,7 +16,7 @@
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/eece570" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xxlya.github.io/EECE-570/" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: EECE 570
 title: Fundamentals of Visual Computing
