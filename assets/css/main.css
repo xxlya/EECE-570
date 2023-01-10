@@ -99,12 +99,12 @@ table{
 table th{
 	padding: 3px;
   background-color: var(--light-bg);
-  /*  border:2px solid #000000; */
+  border:2px solid #000000;
 }
 
 table td{
 	padding: 3px;
-  /*  border:1px solid #000000; */
+  border:1px solid #000000;
 }
 
 /* https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped */
