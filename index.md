@@ -56,17 +56,17 @@ offered by UBC.
 Our schedule will be updated during the semesber. Please frequently check the schedule here.
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
-|-------|-------------------|----------------------------------------------------------------------|------------------|-----------------------------------|
+|:-------:|-------------------||:----------------------------------------------------------------------:|:------------------:|-----------------------------------|
 | 1/10  | Prof. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
 | 1/12  | Prof. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
 | 1/17  | Prof. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Prof. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
 | 1/24  |                   | Presentation – deep learning-based sketching                         |                  | Submit review Submit peer-grading |
-| 1/26  |                   | Presentation – application of sketching                              |                  | Submit review Submit peer-grading |
-| 1/31  | Prof. Xiaoxiao Li | HOG-SIFT and Filtering                                               |                  |                                   |
-| 2/1   | Prof. Xiaoxiao Li | Image Classification I                                               |                  |                                   |
-| 2/7   | Prof. Xiaoxiao Li | Image Classification II – Heterogeneity & Weakly Supervised Learning |                  |                                   |
-| 2/9   | Prof. Xiaoxiao Li | Image Classification IV   – Trustworthiness                          |                  |                                   |
+| 1/26  | Prof. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
+| 1/31  | Prof. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
+| 2/1   | Prof. Xiaoxiao Li |  Image Classification II – Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
+| 2/7   |          |  Presentation – Advanced image classification |                  |                                   |
+| 2/9   | Prof. Xiaoxiao Li | Image Classification III   – Trustworthiness                          |                  |                                   |
 | 2/14  |                   | Presentation – Advanced image classification                         |                  |                                   |
 | 2/16  | Prof. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
