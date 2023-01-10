@@ -131,3 +131,22 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
 | 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
+
+# Commitments
+* It is my ultimate goal for this course, and my teaching, to develop your academic skills, supporting your future study and career. To do so will require commitments from <em>you and myself</em>  toward meeting this goal.
+			
+
+## Active Participation
+* I will be prepared to use class time to help you understand the course material. I will respectfully listen to, understand, and answer questions asked in class. 
+* You are expected to attend class and actively participate in discussions, answering questions, asking questions, presenting material, etc. Your participation will be respectful of your classmates, both of their opinions and of their current point in their educational journey, as we each approach the material with different backgrounds and contexts.
+
+## Academic Integrity
+* This course follows the rules presented in [Acdemic Integrity at UBC](https://academicintegrity.ubc.ca/).
+
+## Learning Accomodation
+* I will make this classroom an open and inclusive environment, accommodating many different learning styles and perspectives.
+* Any student seeking accommodation in relation to a recognized disability should inform me at the beginning of the course.
+
+## Physical and Mental Health
+* I am willing to work with you individually when life goes off the rails.
+* Coursework and college in general can become stressful and overwhelming, and your wellness can be impacted when you least expect it. You should participate in self-care and preventative measures, and be willing to find support when you need it. 
