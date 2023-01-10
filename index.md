@@ -9,9 +9,9 @@
 layout: course-multi
 ---
 
-<!-- # <a name="description">Overview</a>
+# <a name="description">Overview</a>
 
-{{ site.description }} -->
+{{ site.description }}
 
 ## <a name="description">Course Description</a>
 
