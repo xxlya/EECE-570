@@ -15,8 +15,6 @@ layout: course-multi
 
 ## <a name="goals">Course Description</a>
 
-Upon completing this course, our goal is for you to be able to:
-
 * This is a Special Topics course focusing on the foundations of computer vision and machine learning/ deep learning methods for computer vision tasks. The students are expected to have obtained a solid
 background in machine learning, linear algebra, and coding skills.
 * This course is a combination of lectures and student presentations. We plan to read and discuss recent research papers on the intersection between computer vision and machine learning. We plan to invite internal (within the department) and external speakers to give guest lectures to give introductory and state-of-the-art developments in the area of computer vision and machine learning.
@@ -33,11 +31,10 @@ background in machine learning, linear algebra, and coding skills.
 
 ## <a name="additional-resources">Time and Location</a>
 
-Class Meets: Tuesday & Thursday (Term 2), 12:30 pm – 14:00 pm
 * Location:
 Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
 * Zoom participation ID:
-https://ubc.zoom.us/j/65807504716?pwd=RnV0Z2dHR1NCMkcwcnVYVmluZ2RRdz09
+[https://ubc.zoom.us/j/65807504716?pwd=RnV0Z2dHR1NCMkcwcnVYVmluZ2RRdz09](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb)
 * TA Office Hours: TBA
 * Instructor Office Hours: Thursday afternoon (by appointment only)
 
