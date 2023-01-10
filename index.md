@@ -56,7 +56,7 @@ offered by UBC.
 Our schedule will be updated during the semesber. Please frequently check the schedule here.
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
-|:-------:|-------------------||:----------------------------------------------------------------------:|:------------------:|-----------------------------------|
+|:-------:|-------------------||:------------------------------------------------:|:-------------------------------------:|-----------------------------------|
 | 1/10  | Prof. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
 | 1/12  | Prof. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
 | 1/17  | Prof. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
