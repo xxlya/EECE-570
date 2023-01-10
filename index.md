@@ -21,13 +21,14 @@ Upon completing this course, our goal is for you to be able to:
 background in machine learning, linear algebra, and coding skills.
 * This course is a combination of lectures and student presentations. We plan to read and discuss recent research papers on the intersection between computer vision and machine learning. We plan to invite internal (within the department) and external speakers to give guest lectures to give introductory and state-of-the-art developments in the area of computer vision and machine learning.
 * This course satisfies the ECE graduate program requirement.
+{% include resources.html content=site.resources %}
 
 ## <a name="resources">Resources</a>
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
 * TA: Chun-Yin Huang (chunyinhuang17@gmail.com)
 * TA: Sana Ayromlou (ayromlous@gmail.com)
 
-<!-- {% include resources.html content=site.resources %} -->
+{% include resources.html content=site.resources %}
 
 ## <a name="additional-resources">Optional Resources</a>
 
