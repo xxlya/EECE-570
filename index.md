@@ -22,7 +22,7 @@ background in machine learning, linear algebra, and coding skills.
 
 {% include resources.html content=site.goals %}
 
-## <a name="resources">Resources</a>
+## <a name="resources">Contacts</a>
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
 * TA: Chun-Yin Huang (chunyinhuang17@gmail.com)
 * TA: Sana Ayromlou (ayromlous@gmail.com)
@@ -40,11 +40,12 @@ Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
 
 {% include resources.html content=site.extra-resources %}
 
-## Laptop Policy
+## Computational Resources
 
-Please **do not bring laptops to lecture**. This may seem strange in a computer science class. But lab is the place where you will get plenty of experience working on the computer; lecture is a time for thinking and learning without the distraction of a computer.
-
-Exceptions may be made on a case-by-case basis if you can prove to me that you really do benefit from using your laptop to take notes.
+GPU computing is required for this class. I strongly recommend to Google Colab or use your
+own/lab’s GPU since that is the most convenient way of writing and testing code with GUI. [Click
+here](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) to try out the Colab tutorial. You can also consider using other computational resources
+offered by UBC.
 
 <hr>
 
