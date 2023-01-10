@@ -23,8 +23,11 @@ background in machine learning, linear algebra, and coding skills.
 * This course satisfies the ECE graduate program requirement.
 
 ## <a name="resources">Resources</a>
+* Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
+* TA: Chun-Yin Huang (chunyinhuang17@gmail.com)
+* TA: Sana Ayromlou (ayromlous@gmail.com)
 
-{% include resources.html content=site.resources %}
+<!-- {% include resources.html content=site.resources %} -->
 
 ## <a name="additional-resources">Optional Resources</a>
 
