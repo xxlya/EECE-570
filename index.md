@@ -131,5 +131,3 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
 | 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
-
-<hr>
