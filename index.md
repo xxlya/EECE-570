@@ -19,6 +19,7 @@ layout: course-multi
 background in machine learning, linear algebra, and coding skills.
 * This course is a combination of lectures and student presentations. We plan to read and discuss recent research papers on the intersection between computer vision and machine learning. We plan to invite internal (within the department) and external speakers to give guest lectures to give introductory and state-of-the-art developments in the area of computer vision and machine learning.
 * This course satisfies the ECE graduate program requirement.
+* Piazza: [https://piazza.com/ubc.ca/winterterm22022/eece570](https://piazza.com/ubc.ca/winterterm22022/eece570)
 
 {% include resources.html content=site.goals %}
 
@@ -26,6 +27,7 @@ background in machine learning, linear algebra, and coding skills.
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
 * TA: Chun-Yin Huang (chunyinhuang17@gmail.com)
 * TA: Sana Ayromlou (ayromlous@gmail.com)
+* Email: include ‘[EECE 570]’ in the subject.
 
 {% include resources.html content=site.resources %}
 
@@ -57,8 +59,8 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||:---------------------------------:|:-------------------------------------:|:-----------------------------------:|
-| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
-| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
+| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   | Signup Piazza
+| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=200/>            | Signup presentation               |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
 | 1/24  |                   | Presentation – deep learning-based sketching                         |                  | Submit review <br> Submit peer-grading |
