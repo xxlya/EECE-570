@@ -13,7 +13,7 @@ layout: course-multi
 
 {{ site.description }} -->
 
-## <a name="goals">Course Description</a>
+## <a name="description">Course Description</a>
 
 * This is a Special Topics course focusing on the foundations of computer vision and machine learning/ deep learning methods for computer vision tasks. The students are expected to have obtained a solid
 background in machine learning, linear algebra, and coding skills.
@@ -22,14 +22,14 @@ background in machine learning, linear algebra, and coding skills.
 
 {% include resources.html content=site.goals %}
 
-## <a name="resources">Contacts</a>
+## <a name="contact">Contacts</a>
 * Instructor: Dr. Xiaoxiao Li (xiaoxiao.li@ece.ubc.ca)
 * TA: Chun-Yin Huang (chunyinhuang17@gmail.com)
 * TA: Sana Ayromlou (ayromlous@gmail.com)
 
 {% include resources.html content=site.resources %}
 
-## <a name="additional-resources">Time and Location</a>
+## <a name="time-and-location">Time and Location</a>
 
 * Location:
 Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
@@ -40,6 +40,8 @@ Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
 
 {% include resources.html content=site.extra-resources %}
 
+
+
 ## Computational Resources
 
 GPU computing is required for this class. I strongly recommend to Google Colab or use your
@@ -49,15 +51,39 @@ offered by UBC.
 
 <hr>
 
-# <a name="inclasscode">In-Class Code</a>
+# <a name="schedule">Schedule</a>
 
-When we write code together in class, it will be posted here!
+Our schedule will be updated during the semesber. Please frequently check the schedule here.
 
-| Date | Topic | Code |
-|:----:|------||-----||
-| F 30 Aug | Intro to Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
-| W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
+| Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
+|-------|-------------------|----------------------------------------------------------------------|------------------|-----------------------------------|
+| 1/10  | Prof. Xiaoxiao Li | Couse Introduction                                                   |                  |                                   |
+| 1/12  | Prof. Xiaoxiao Li | Introduction to computer vision                                      |                  | Signup presentation               |
+| 1/17  | Prof. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
+| 1/19  | Prof. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
+| 1/24  |                   | Presentation – deep learning-based sketching                         |                  | Submit review Submit peer-grading |
+| 1/26  |                   | Presentation – application of sketching                              |                  | Submit review Submit peer-grading |
+| 1/31  | Prof. Xiaoxiao Li | HOG-SIFT and Filtering                                               |                  |                                   |
+| 2/1   | Prof. Xiaoxiao Li | Image Classification I                                               |                  |                                   |
+| 2/7   | Prof. Xiaoxiao Li | Image Classification II – Heterogeneity & Weakly Supervised Learning |                  |                                   |
+| 2/9   | Prof. Xiaoxiao Li | Image Classification IV   – Trustworthiness                          |                  |                                   |
+| 2/14  |                   | Presentation – Advanced image classification                         |                  |                                   |
+| 2/16  | Prof. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
+| 2/24  |                   |                                                                      |                  | Submit project proposal           |
+| 2/28  |                   | Presentation – Advanced object detection and identification          |                  | Submit review Submit peer-grading |
+| 3/2   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
+| 3/7   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
+| 3/9   | Prof. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review Submit peer-grading |
+| 3/14  |                   | Presentation – Advanced image segmentation                           |                  |                                   |
+| 3/16  | Prof. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
+| 3/21  |                   | Presentation – Advanced image synthesis                              |                  | Submit review Submit peer-grading |
+| 3/23  | Prof. Xiaoxiao Li | Image Registration                                                   |                  | Submit review Submit peer-grading |
+| 3/28  |                   | Presentation – Image Registration                                    |                  |                                   |
+| 4/4   | Prof. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
+| 4/6   |                   | Presentation-Vision Transformer                                      |                  | Submit review Submit peer-grading |
+| 4/11  | Prof. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
+| 4/13  |                   | Presentation-Vision Analysis                                         |                  | Submit review Submit peer-grading |
+| 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
 # Coursework

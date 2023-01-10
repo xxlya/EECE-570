@@ -37,8 +37,8 @@ navigation:
         url: '#description'
       - page: Contacts
         url: '#contact'
-  - page: In-Class Code
-    url: '#inclasscode'
+  - page: Schedule
+    url: '#schedule'
   - title: Coursework
     subfolderitems:
       - page: Homework and Quizzes
