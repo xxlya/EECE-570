@@ -44,7 +44,7 @@ Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
 
 ## Computational Resources
 
-GPU computing is required for this class. I strongly recommend to Google Colab or use your
+* GPU computing is required for this class. I strongly recommend to Google Colab or use your
 own/lab’s GPU since that is the most convenient way of writing and testing code with GUI. [Click
 here](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) to try out the Colab tutorial. You can also consider using other computational resources
 offered by UBC.
