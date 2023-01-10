@@ -43,7 +43,8 @@ body {
 a {
   color: var(--main-color);
   text-decoration: none;
-  background-color: transparent;
+  /* background-color: transparent; */
+  
   -webkit-text-decoration-skip: objects;
 }
 
