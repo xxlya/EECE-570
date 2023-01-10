@@ -31,12 +31,12 @@ semester: Spring 2023
 navigation:
   - title: Overview
     subfolderitems:
-      - page: Description
+      # - page: Description
+      #   url: '#description'
+      - page: Course Description
         url: '#description'
-      - page: Learning Goals
-        url: '#goals'
-      - page: Resources
-        url: '#resources'
+      - page: Contacts
+        url: '#contact'
   - page: In-Class Code
     url: '#inclasscode'
   - title: Coursework
