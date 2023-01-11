@@ -104,7 +104,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||:---------------------------------:|:-------------------------------------:|:-----------------------------------:|
-| 1/10  | Dr. Xiaoxiao Li | Couse Introduction                                                   |                  |            Signup Piazza                       | 
+| 1/10  | Dr. Xiaoxiao Li | Couse Introduction <br> [Recording](https://ubc.zoom.us/rec/share/FbuuMyTp_KG8Xv8t2QnHh-dQdqaw2lAp1JXzuu--gF1BEUEDl3fk7yMjkLsYkPoH.y0KnStFcpMnZwPMv) <br> Password: %Ug4qW1+                                               |                  |            Signup Piazza                       | 
 | 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=400/>            | Signup presentation               |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |                                   |
