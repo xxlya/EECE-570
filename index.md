@@ -34,7 +34,7 @@ background in machine learning, linear algebra, and coding skills.
 ## <a name="time-and-location">Time and Location</a>
 
 * Location:
-Tue/Thu ∥ 11:00 am – 12:30 pm ∥ Neville Scarfe∥ Rm 1004
+Tue/Thu ∥ 11:00 am – 12:30 pm ∥ SPPH B151
 * Zoom participation ID:
 [https://ubc.zoom.us/j/65807504716?pwd=RnV0Z2dHR1NCMkcwcnVYVmluZ2RRdz09](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb)
 * TA Office Hours: TBA
