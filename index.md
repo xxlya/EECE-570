@@ -103,7 +103,7 @@ Vol. 1. No. 10. New York: Springer series in statistics, 2001.
 Our schedule will be updated during the semesber. Please frequently check the schedule here.
 
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
-|:-------:|-------------------||:---------------------------------:|-------------------------------------||:-----------------------------------:|
+|:-------:|-------------------||---------------------------------||-------------------------------------||:-----------------------------------:|
 | 1/10  | Dr. Xiaoxiao Li | Couse Introduction <br> [Recording](https://ubc.zoom.us/rec/share/FbuuMyTp_KG8Xv8t2QnHh-dQdqaw2lAp1JXzuu--gF1BEUEDl3fk7yMjkLsYkPoH.y0KnStFcpMnZwPMv) <br> Password: %Ug4qW1+                                               |                  |            Signup Piazza                       | 
 | 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision <br>[slides](https://canvas.ubc.ca/courses/106862/files)                                      |      <img width=350/>            |  <img width=50/>            |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning<br>[slides](https://canvas.ubc.ca/courses/106862/files)                                        |                  |                                   |
