@@ -105,7 +105,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | Dates | Presenters        | Topics                                                               | Suggested papers | Submissions                       |
 |:-------:|-------------------||:---------------------------------:|-------------------------------------||:-----------------------------------:|
 | 1/10  | Dr. Xiaoxiao Li | Couse Introduction <br> [Recording](https://ubc.zoom.us/rec/share/FbuuMyTp_KG8Xv8t2QnHh-dQdqaw2lAp1JXzuu--gF1BEUEDl3fk7yMjkLsYkPoH.y0KnStFcpMnZwPMv) <br> Password: %Ug4qW1+                                               |                  |            Signup Piazza                       | 
-| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=400/>            |              |
+| 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=350/>            |              |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |   Signup presentation                                  |
 | 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading |
@@ -129,8 +129,6 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 4/4   |                   | Presentation – <br>  Image Registration                                    |                  |                                   |
 | 4/6   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
 | 4/11  |                   | Presentation – <br> Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
-<!-- | 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
-| 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading | -->
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
