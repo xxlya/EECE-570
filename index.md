@@ -110,7 +110,7 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |   Signup presentation                                  |
 | 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading |
 | 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
-| 1/31  | Dr. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
+| 1/31  | Dr. Xiaoxiao Li | Image Classification I – <br> Filtering                                               |                  |                                   |
 | 2/1   |                 | Presentation – <br>  Multi-scale image classification |                        |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
 | 2/9   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
