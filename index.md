@@ -108,17 +108,17 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/12  | Dr. Xiaoxiao Li | Introduction to computer vision                                      |      <img width=350/>            |              |
 | 1/17  | Dr. Xiaoxiao Li | Introduction to deep learning                                        |                  |                                   |
 | 1/19  | Dr. Xiaoxiao Li | Edge Detector                                                        |                  |   Signup presentation                                  |
-| 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading |
+| 1/24  | Luke <br>  Ruichen             | Presentation – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading |
 | 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
-| 1/31  | Dr. Xiaoxiao Li | Image Classification I – <br> Filtering                                               |                  |                                   |
-| 2/1   |                 | Presentation – <br>  Multi-scale image classification |                        |  Submit review <br> Submit peer-grading           |
+| 1/31  | Dr. Xiaoxiao Li | Image Classification I  <br> and Object Detection                      |                  |                                   |
+| 2/1   |                 | Presentation – <br>  Multi-scale image classification |  Huang, G., Chen, D., Li, T., Wu, F., Van Der Maaten, L. and Weinberger, K.Q., 2017. Multi-scale dense networks for resource efficient image classification. arXiv preprint arXiv:1703.09844. <br> ICLR 2018 [paper](https://arxiv.org/abs/1703.09844) <br> Pang, Y., Wang, T., Anwer, R.M., Khan, F.S. and Shao, L., 2019. Efficient featurized image pyramid network for single shot detector. <br> CVPR 2019 [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Efficient_Featurized_Image_Pyramid_Network_for_Single_Shot_Detector_CVPR_2019_paper.pdf)                 |  Submit review <br> Submit peer-grading           |
 | 2/7   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
 | 2/9   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
 | 2/14  | Dr. Xiaoxiao Li | Image Classification III   – <br> Trustworthiness                          |                  |                                   |
 | 2/16  |                   | Presentation – <br>  Advanced image classification                         |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
-| 2/28  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
-| 3/2   |                   | Presentation – <br>  Advanced object detection and identification          |                  | Submit review <br> Submit peer-grading |
+| 2/28  | Dr. Xiaoxiao Li | Vision-Transformer                                   |                  |                                   |
+| 3/2   |                   | Presentation – <br>  Vision Transformer           |                  | Submit review <br> Submit peer-grading |
 | 3/7   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
 | 3/9   |  Dr.Fatemeh Taheri Dezaki <br> Amazon | Reasech topic in computer vision                                                       |                  |                                   |
 | 3/14   | Dr. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review <br> Submit peer-grading |
@@ -127,8 +127,8 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 3/23  |                   | Presentation – <br>  Advanced image synthesis                              |                  | Submit review <br> Submit peer-grading |
 | 3/28  | Dr. Xiaoxiao Li | Image Registration                                                   |                  | Submit review <br> Submit peer-grading |
 | 4/4   |                   | Presentation – <br>  Image Registration                                    |                  |                                   |
-| 4/6   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
-| 4/11  |                   | Presentation – <br> Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
+| 4/6   | Dr. Xiaoxiao Li | Video Analysis                                                   |                  |                                   |
+| 4/11  |                   | Presentation – <br> Video Analysis                                     |                  | Submit review <br> Submit peer-grading |
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
