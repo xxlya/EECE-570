@@ -111,25 +111,26 @@ Our schedule will be updated during the semesber. Please frequently check the sc
 | 1/24  |                   | Presentation – <br>  deep learning-based sketching                         |  Chan, C., Durand, F. and Isola, P., 2022. Learning to generate line drawings that convey geometry and semantics. <br> CVPR 2022 [paper](https://arxiv.org/pdf/2203.12691.pdf) <br> He, J., Zhang, S., Yang, M., Shan, Y. and Huang, T., 2019. Bi-directional cascade network for perceptual edge detection.  <br> CVPR 2019 [paper](https://arxiv.org/pdf/1902.10903.pdf)           | Submit review <br> Submit peer-grading |
 | 1/26  | Dr. Xiaoxiao Li                  | Fileters and Multi-scale Representation                              |                  |  |
 | 1/31  | Dr. Xiaoxiao Li | Image Classification I Filtering                                               |                  |                                   |
-| 2/1   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
-| 2/7   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
-| 2/9   | Dr. Xiaoxiao Li | Image Classification III   – <br> Trustworthiness                          |                  |                                   |
-| 2/14  |                   | Presentation – <br>  Advanced image classification                         |                  |                                   |
-| 2/16  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
+| 2/1   |                 | Presentation – <br>  Multi-scale image classification |                        |  Submit review <br> Submit peer-grading           |
+| 2/7   | Dr. Xiaoxiao Li |  Image Classification II – <br>  Heterogeneity & Weakly SupervisedI                                               |                  |                                   |
+| 2/9   |          |  Presentation – <br>  Advanced image classification |                  |                                   |
+| 2/14  | Dr. Xiaoxiao Li | Image Classification III   – <br> Trustworthiness                          |                  |                                   |
+| 2/16  |                   | Presentation – <br>  Advanced image classification                         |                  |                                   |
 | 2/24  |                   |                                                                      |                  | Submit project proposal           |
-| 2/28  |                   | Presentation – <br>  Advanced object detection and identification          |                  | Submit review <br> Submit peer-grading |
-| 3/2   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
-| 3/7   |  Dr.Fatemeh Taheri Dezaki <br> Amazon | Reasech topic in computer vision                                                       |                  |                                   |
-| 3/9   | Dr. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review <br> Submit peer-grading |
-| 3/14  |                   | Presentation – <br>  Advanced image segmentation                           |                  |                                   |
-| 3/16  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
-| 3/21  |                   | Presentation – <br>  Advanced image synthesis                              |                  | Submit review <br> Submit peer-grading |
-| 3/23  | Dr. Xiaoxiao Li | Image Registration                                                   |                  | Submit review <br> Submit peer-grading |
-| 3/28  |                   | Presentation – <br>  Image Registration                                    |                  |                                   |
-| 4/4   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
-| 4/6   |                   | Presentation – <br> Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
-| 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
-| 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading |
+| 2/28  | Dr. Xiaoxiao Li | Object detection and identification                                  |                  |                                   |
+| 3/2   |                   | Presentation – <br>  Advanced object detection and identification          |                  | Submit review <br> Submit peer-grading |
+| 3/7   | TEA grad student  | Trustworthy AI                                                       |                  |                                   |
+| 3/9   |  Dr.Fatemeh Taheri Dezaki <br> Amazon | Reasech topic in computer vision                                                       |                  |                                   |
+| 3/14   | Dr. Xiaoxiao Li | Image Segmentation                                                   |                  | Submit review <br> Submit peer-grading |
+| 3/16  |                   | Presentation – <br>  Advanced image segmentation                           |                  |                                   |
+| 3/21  | Dr. Xiaoxiao Li | Image Synthesis                                                      |                  |                                   |
+| 3/23  |                   | Presentation – <br>  Advanced image synthesis                              |                  | Submit review <br> Submit peer-grading |
+| 3/28  | Dr. Xiaoxiao Li | Image Registration                                                   |                  | Submit review <br> Submit peer-grading |
+| 4/4   |                   | Presentation – <br>  Image Registration                                    |                  |                                   |
+| 4/6   | Dr. Xiaoxiao Li | Vision-Transformer                                                   |                  |                                   |
+| 4/11  |                   | Presentation – <br> Vision Transformer                                      |                  | Submit review <br> Submit peer-grading |
+<!-- | 4/11  | Dr. Xiaoxiao Li | Video analysis                                                       |                  |                                   |
+| 4/13  |                   | Presentation – <br> Vision Analysis                                         |                  | Submit review <br> Submit peer-grading | -->
 | 4/21  | All students      | Final project                                                        |                  | Submit final project              |
 
 <hr>
